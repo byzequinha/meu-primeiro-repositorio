@@ -6,8 +6,8 @@
 <br>
 <h4>Linguagens utilizadas:</h4>
 <br>
-- HTML
-- CSS
+- HTML <br>
+- CSS  <br>
 <br>
 Versão Desktop
 <img src="https://github.com/byzequinha/meu-primeiro-repositorio/blob/main/img/We%20Care%20Desktop.png?raw=true">
